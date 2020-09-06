@@ -1,0 +1,19 @@
+.header {
+    max-width: 1440px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.logo {
+    background-image: url(../../../img/logo.svg);
+    display: block;
+    background-repeat: no-repeat;
+    width: 120px;
+    height: 32px;
+}
+.nav {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+}
